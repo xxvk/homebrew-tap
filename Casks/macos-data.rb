@@ -1,11 +1,11 @@
 cask "macos-data" do
-  version "0.3.0"
-  sha256 "b2c31d9331dbd05b27212e755b0e092622fb11befd922480cc8a660963bfeb75"
+  version "0.6.2"
+  sha256 "b13f95be6a6b70c8727c3d195944350b2ec96b143ca28efcf85a96c049e0b408"
 
-  url "https://github.com/xxvk/macos-data-cli/releases/download/v0.3.0/macos-data-0.3.0-macos-arm64.tar.gz"
+  url "https://github.com/xxvk/macos-data-cli/releases/download/v0.6.2/macos-data-0.6.2-macos-arm64.tar.gz"
   name "macos-data"
   desc "Local macOS native data CLI for agents and developers"
   homepage "https://github.com/xxvk/macos-data-cli"
 
-  binary "macos-data-release-0.3.0/macos-data"
+  binary "macos-data-release-0.6.2/macos-data"
 end
